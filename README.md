@@ -1,5 +1,3 @@
-### Hi 
-
 **yi6ei2ifd/yi6ei2ifd** is a  _special_  repository 
 
 - 🔭 I’m currently working on : Unionpay || Sequoia Capital Invests in Startups || Tencent
@@ -10,7 +8,6 @@
 -  How to reach me: yibeizifd666@gmail.com
 -  Pronouns: Dog！！！
 -  Fun fact: Penetration testing ,Enterprise security construction,Investor
-
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/yi6ei2ifd/count.svg)](https://www.yibeizifd.cc/) visitor, Thank You!
 
